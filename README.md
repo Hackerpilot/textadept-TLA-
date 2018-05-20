@@ -7,7 +7,7 @@ TLA+ and PlusCal syntax highlighting for Textadept
 ```textadept.file_types.extensions["tla"] = "tlaplus"```
 
 ## Known issues
-The PlusCal lexer will only actiavte if the comment containing the algorithm ONLY containst the algorithm. For example:
+The PlusCal lexer will only actiavte if the comment containing the algorithm ONLY contains the algorithm. For example:
 ```
 (*Good *)
 (*
